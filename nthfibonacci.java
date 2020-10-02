@@ -6,7 +6,7 @@
 */
 import java.util.*;
 
-public class fibonacci_using_dp {
+public class nthfibonacci {
 
     public static void main(String[] args) throws Exception {
         // write your code here
